@@ -17,7 +17,7 @@ body {
   padding: 0 7px;
 }
 
-header h1 {
+h1 {
   text-align: center;
   margin: -4px 0;
   letter-spacing: 0.15px
@@ -34,25 +34,3 @@ p {
   margin: 2px 0;
 }
 
-.bold {
-  font-weight: 800;
-}
-
-.large {
-  height: 10px;
-}
-
-.large, .medium {
-  background-color: black;
-  border: 0;
-}
-
-.small-text {
-  font-size: 0.85rem;
-}
-
-
-
-.calories-info h2 {
-  margin: 0;
-}
